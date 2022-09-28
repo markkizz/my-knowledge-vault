@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "d30cb431507439bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9dcf78d2b71887f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Townhall - How we keep up and move faster with latest technology trends.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c8b286323dde677",
+    "type": "split",
+    "children": [
+      {
+        "id": "446e6ec2024af3a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f25b7ee134757005",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fbcd42b84a6c79d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "daf987d784f134b7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fb4306a1d7f8504",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1b175274dc946fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0506ff7849a5cffd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Townhall - How we keep up and move faster with latest technology trends.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f562d98b0aa48119",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Townhall - How we keep up and move faster with latest technology trends.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8949d9915789d05a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19eaa18b32a23062",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Townhall - How we keep up and move faster with latest technology trends.md"
+              }
+            }
+          },
+          {
+            "id": "27b5f8dab4444b44",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d9dcf78d2b71887f",
+  "lastOpenFiles": []
+}
