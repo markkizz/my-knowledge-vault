@@ -27,6 +27,9 @@
 
 ## How we move faster
 
+
+#### What is it
+
 ```ad-quote
 หน้าที่ที่สำคัญของทีม Platform คือ ต้องกำหนดมาตรฐานและพันธสัญญาของการพัฒนาระบบโดยรวมให้ทีม Tech (ในบทความใช้คำว่า "Golden Path" เพื่อให้เกิด efficency ทั้งในแง่มุม resource และ cost
 ```
