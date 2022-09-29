@@ -31,11 +31,11 @@
 
 ทางทีม cloud dev จึงต้องสร้างทีมๆนึงคือทีม "platform" เพื่อแก้ปัญหา
 
-#### What is it
+#### What is it ?
 platform คืออะไร เข้าจะเป็นทุกอย่างให้เธอแล้วครับ... ก็คือคนที่ R&D implement technology ใหม่ๆ, training maintain internal service and library
 
-#### Why we have it
-เรามีทำไม จากที่กล่าวมาตอนตนครับ
+#### Why we have it ?
+เรามีทำไม จากที่กล่าวมาตอนต้นครับ
 ```ad-quote
 หน้าที่ที่สำคัญของทีม Platform คือ ต้องกำหนดมาตรฐานและพันธสัญญาของการพัฒนาระบบโดยรวมให้ทีม Tech (ในบทความใช้คำว่า "Golden Path" เพื่อให้เกิด efficency ทั้งในแง่มุม resource และ cost
 ```
