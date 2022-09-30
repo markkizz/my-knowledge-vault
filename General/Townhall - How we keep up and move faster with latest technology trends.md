@@ -35,7 +35,9 @@
 platform คืออะไร เข้าจะเป็นทุกอย่างให้เธอแล้วครับ... ก็คือคนที่ R&D implement technology ใหม่ๆ, training maintain internal service and library
 
 #### Why we have it ?
-เรามีทำไม ก็จากที่กล่าวมาตอนต้นครับ
+แล้วเรามีทำไม ก็จากที่กล่าวมาตอนต้นครับ
+- Efficiency
+	- Efficiency  ได้ยังไง อย่างเช่น เวลาที่เราจะสร้าง service ได้หนึ่งตัวเนี่ยเราต้องลง library หลายตัวมากๆ ต้องจัดวาง folder และสร้างไฟล์ตาม practices อีกก็จะใช้เวลามากกว่าได้ลงงานจริงๆ ทีม platform เนี่ยจะมาช่วยลดปัญหาคือไปสร้าง internal product 
 
 ```ad-quote
 หน้าที่ที่สำคัญของทีม Platform คือ ต้องกำหนดมาตรฐานและพันธสัญญาของการพัฒนาระบบโดยรวมให้ทีม Tech (ในบทความใช้คำว่า "Golden Path" เพื่อให้เกิด efficency ทั้งในแง่มุม resource และ cost
