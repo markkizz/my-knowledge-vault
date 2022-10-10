@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Townhall - How we keep up and move faster with latest technology trends.md",
+            "file": "Adapt JWT token based authentication to NCP system.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Townhall - How we keep up and move faster with latest technology trends.md",
+                "file": "Adapt JWT token based authentication to NCP system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Townhall - How we keep up and move faster with latest technology trends.md",
+                "file": "Adapt JWT token based authentication to NCP system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Townhall - How we keep up and move faster with latest technology trends.md"
+                "file": "Adapt JWT token based authentication to NCP system.md"
               }
             }
           },
@@ -137,5 +137,9 @@
     "width": 300
   },
   "active": "d9dcf78d2b71887f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "RFC Template.md",
+    "Adapt JWT token based authentication to NCP system.md",
+    "Townhall - How we keep up and move faster with latest technology trends.md"
+  ]
 }
