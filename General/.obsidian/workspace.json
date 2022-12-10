@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "630ab1137b3ec88d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,10 +179,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "cab8917b127c4205",
+  "active": "630ab1137b3ec88d",
   "lastOpenFiles": [
     "RFC Template.md",
     "Adapt JWT token based authentication to NCP system.md",
