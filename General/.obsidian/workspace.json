@@ -69,9 +69,11 @@
             "id": "9dc4097206f599fd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md"
+                "file": "Gitflow.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -126,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9fb4306a1d7f8504",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md",
+                "file": "Gitflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md",
+                "file": "Gitflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md"
+                "file": "Gitflow.md"
               }
             }
           },
@@ -200,11 +201,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9dc4097206f599fd",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md",
     "Gitflow.md",
     "Continuous Delivery approach in Kubernetes.md",
     "RFC Template.md",

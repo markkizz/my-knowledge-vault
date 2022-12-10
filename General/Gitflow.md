@@ -21,7 +21,6 @@ Overall, Gitflow is a structured approach to branching that helps teams to manag
 
 Ultimately, the right branching strategy will depend on the specific needs and goals of your team. It is important to choose a model that aligns with your development process and allows your team to collaborate effectively.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![Kittayot (Mark)](https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5fJ84HkuPO1Uj6rjmHhjpiX99tEMQ8eCA_Q2OY%3Ds96-c&w=64&q=75)
 
 can you elaborate those strategies.
 
@@ -32,11 +31,9 @@ Sure, here is a brief overview of each of the branching strategies I mentioned:
 -   Feature branching: In this model, each team member creates a new branch for each feature they are working on. When the feature is complete, the branch is merged back into the main branch. This approach allows team members to work independently on different features, but it can be difficult to manage if multiple team members are working on the same branch.
     
 -   GitLab Flow: This is a branching model developed by GitLab. It is similar to Gitflow, but it emphasizes the use of merge requests (also known as pull requests) to review and merge code. In GitLab Flow, team members create a new branch for each feature they are working on, and they use merge requests to review and merge their code into the main branch. This approach allows for more collaboration and code review, but it can be more complex to manage than other branching models.
-    
 
 Overall, each of these branching strategies has its own strengths and weaknesses, and the right approach will depend on the specific needs and goals of your team. It is important to choose a model that aligns with your development process and allows your team to collaborate effectively.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![Kittayot (Mark)](https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5fJ84HkuPO1Uj6rjmHhjpiX99tEMQ8eCA_Q2OY%3Ds96-c&w=64&q=75)
 
 What the GitLab Flow do.
 
@@ -50,8 +47,6 @@ Once the `develop` branch has been tested and is ready for release, it is merged
 
 GitLab Flow can be a helpful strategy for teams because it emphasizes collaboration and code review. By using merge requests to review and merge code, teams can ensure that the code they are merging into the main branch is of high quality. This can help prevent bugs and other issues from making it into production.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![Kittayot (Mark)](https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAEdFTp5fJ84HkuPO1Uj6rjmHhjpiX99tEMQ8eCA_Q2OY%3Ds96-c&w=64&q=75)
-
 What Feature branching strategy do.
 
 In the feature branching strategy, each team member creates a new branch for each feature they are working on. When the feature is complete, the branch is merged back into the main branch.
@@ -61,3 +56,5 @@ This approach allows team members to work independently on different features, w
 However, this approach can be more challenging to manage than other branching models, because it does not have dedicated `develop` and `release` branches. It also does not emphasize code review and collaboration as much as other models, such as Gitflow and GitLab Flow.
 
 Overall, the feature branching strategy can be a useful approach for teams that want to work independently on different features and have the flexibility to merge their code into the main branch when they are ready. However, it may not be as well-suited to larger teams or teams that need to collaborate more closely.
+
+[azure devops - Git workflow issue - lots of merge conflicts where files haven't been changed - Stack Overflow](https://stackoverflow.com/questions/69360187/git-workflow-issue-lots-of-merge-conflicts-where-files-havent-been-changed)
