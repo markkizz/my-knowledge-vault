@@ -52,9 +52,21 @@
                 "currentVersion": "1.0.3"
               }
             }
+          },
+          {
+            "id": "cb258b528d82deaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuous Delivery approach in Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RFC defination.md",
+                "file": "Continuous Delivery approach in Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RFC defination.md",
+                "file": "Continuous Delivery approach in Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RFC defination.md"
+                "file": "Continuous Delivery approach in Kubernetes.md"
               }
             }
           },
@@ -179,7 +191,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "630ab1137b3ec88d",
+  "active": "cb258b528d82deaa",
   "lastOpenFiles": [
     "RFC Template.md",
     "Adapt JWT token based authentication to NCP system.md",
