@@ -143,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,8 +201,8 @@
   },
   "active": "9dc4097206f599fd",
   "lastOpenFiles": [
-    "Gitflow.md",
     "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md",
+    "Gitflow.md",
     "Continuous Delivery approach in Kubernetes.md",
     "RFC Template.md",
     "Adapt JWT token based authentication to NCP system.md",
