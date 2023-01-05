@@ -198,11 +198,11 @@ table: wallet_transactions
 
 ### input:
 table: wallet_transactions
-|transaction_id|type |cycle_id|project_id|item_type|item_ref_1|item_ref_2|description|amount     |status |created_at         |updated_at         |item_ref_3|item_ref_4|item_ref_5|item_ref_6|item_ref_7|item_ref_8|correlation_id|
-|--------------|-----|--------|----------|---------|----------|----------|-----------|-----------|-------|-------------------|-------------------|----------|----------|----------|----------|----------|----------|--------------|
-|1             |TOPUP|1       |123       |None     |DEV26873  |voucher   |Dev eieie 2|57000000000|PENDING|2023-01-05 15:04:21|2023-01-05 16:23:43|          |          |          |          |          |          |              |
-|2             |TOPUP|4       |1234      |None     |DEV0000   |voucher   |Dev        | 3000000000|PENDING|2023-01-05 15:04:21|2023-01-05 15:04:21|          |          |          |          |          |          |              |
-|3             |TOPUP|1       |123      |None     |DEV11111   |voucher   |Dev11111        | 10000000000|PENDING|2023-01-05 15:04:21|2023-01-05 15:04:21|          |          |          |          |          |          |              |
+|transaction_id|type |cycle_id|project_id|item_type|item_ref_1|item_ref_2|description|amount     |status  |created_at         |updated_at         |item_ref_3|item_ref_4|item_ref_5|item_ref_6|item_ref_7|item_ref_8|correlation_id|
+|--------------|-----|--------|----------|---------|----------|----------|-----------|-----------|--------|-------------------|-------------------|----------|----------|----------|----------|----------|----------|--------------|
+|1             |TOPUP|1       |123       |None     |DEV26873  |voucher   |Dev eieie 2|57000000000|PENDING|2023-01-05 15:04:21|2023-01-05 17:57:26|          |          |          |          |          |          |              |
+|2             |TOPUP|4       |1234      |None     |DEV0000   |voucher   |Dev        | 3000000000|PENDING|2023-01-05 15:04:21|2023-01-05 17:57:36|          |          |          |          |          |          |              |
+|3             |TOPUP|1       |123       |None     |DEV11111  |voucher   |Dev123     |10000000000|PENDING|2023-01-05 15:04:21|2023-01-05 17:57:48|          |          |          |          |          |          |              |
 
 ### actual:
 table: wallets
