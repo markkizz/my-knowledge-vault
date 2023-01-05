@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9fb4306a1d7f8504",
@@ -153,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d12eafd37c0ad66",
+  "active": "f25b7ee134757005",
   "lastOpenFiles": [
     "Adapt JWT token based authentication to NCP system.md",
     "RFC Template.md",
