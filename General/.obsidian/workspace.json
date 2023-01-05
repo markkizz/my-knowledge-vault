@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,6 +166,7 @@
   },
   "active": "65f917ae630fad96",
   "lastOpenFiles": [
+    "Test Result CR 2023 DEV 005.md",
     "Team building.md",
     "2023-01-05.md",
     "Excalidraw/Drawing 2023-01-05 10.39.03.excalidraw.md",
@@ -174,7 +175,6 @@
     "RFC defination.md",
     "Continuous Delivery approach in Kubernetes.md",
     "Excalidraw/Drawing 2022-12-11 00.33.55.excalidraw.md",
-    "Gitflow.md",
-    "Townhall - How we keep up and move faster with latest technology trends.md"
+    "Gitflow.md"
   ]
 }
