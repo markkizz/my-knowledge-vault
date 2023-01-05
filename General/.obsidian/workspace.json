@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "629ef09ec28ea036",
+        "id": "7203505f27c2b4eb",
         "type": "tabs",
         "children": [
           {
-            "id": "e9dd0293dfa7fac7",
+            "id": "65f917ae630fad96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Team building.md",
+                "file": "Test Result CR 2023 DEV 005.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d12eafd37c0ad66",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-01-05 10.39.03.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9fb4306a1d7f8504",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-05 10.39.03.excalidraw.md",
+                "file": "Test Result CR 2023 DEV 005.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-05 10.39.03.excalidraw.md",
+                "file": "Test Result CR 2023 DEV 005.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-05 10.39.03.excalidraw.md"
+                "file": "Test Result CR 2023 DEV 005.md"
               }
             }
           },
@@ -148,14 +136,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "dc1cda7953d97130",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d12eafd37c0ad66",
+  "active": "65f917ae630fad96",
   "lastOpenFiles": [
     "Team building.md",
+    "2023-01-05.md",
+    "Excalidraw/Drawing 2023-01-05 10.39.03.excalidraw.md",
     "Adapt JWT token based authentication to NCP system.md",
     "RFC Template.md",
     "RFC defination.md",
