@@ -9,6 +9,7 @@ interface Repositories {
 	id: string
 	name: string
 	userId: string
+	member?: Array<string>
 }
 
 interface Project {
