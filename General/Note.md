@@ -4,13 +4,20 @@ Data platform
 - data model
 	- repositories/$uuid
 ```ts
-{
-	"repositories": {
-		"id": string
-		"name": string
-		"userId": string
-		"source_code": string // or node-sql-parse type
-		"language": string
+interface Repositories {
+	id: string
+	name: string
+	userId: string
+	sourceCode: string // or node-sql-parse type
+	language: string // can be more than SQL 
+	tags: {
+		[tagName: string]: boolean
 	}
 }
+
+interface Tag {
+	id: "name"
+	name: string //uniq
+}
 ```
+	 - 
