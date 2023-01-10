@@ -16,8 +16,8 @@ interface Repositories {
 }
 
 interface Tag {
-	id: "name"
-	name: string //uniq
+	id: string // tag name uniq
+	name: string
 }
 ```
 	 - 
